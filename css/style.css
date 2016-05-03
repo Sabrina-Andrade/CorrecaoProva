@@ -1,0 +1,66 @@
+tabela {
+    border-collapse: collapse;   
+}
+
+tabela, th, td {
+    border: 2px solid #999;
+    float:center;
+    align-items: center;
+    margin: 10px auto;
+    
+    
+    
+}
+.tabela {
+    margin-left: 50px;
+    background-color: bisque; 
+    border-bottom-color: black;
+}
+
+
+.link {
+    float: right;  
+}
+
+body{
+    background-color:bisque;
+    
+}
+
+#page {
+    width: 280px;
+    padding: 20px 0px 20px 0px;
+    margin: 10px auto;
+    border: 2px solid black;
+    color: white;
+    background-color: bisque;
+    box-shadow: 3px 3px 3px rgba(0,0,0,.5); 
+    text-align: center;    
+}
+
+h1 {
+    text-align: center;
+}
+
+.botao {
+    font-size: 10px;
+    color:aliceblue;
+    background-color: gainsboro;
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 4px 20px;
+    text-decoration: none;
+    font-family: Helvetica, Arial, sans-serif; 
+}
+
+.botao:hover {
+    background-color: darkgrey;
+}
+
+.texto{
+    overflow: scroll;
+}
+
+    
+
+    

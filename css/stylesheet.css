@@ -1,0 +1,48 @@
+tabela {
+    border-collapse: collapse;   
+}
+
+tabela, th, td {
+    border: 1px solid #999;
+    float:center;
+    align-items: center;
+    margin: 0 auto;
+    
+    
+    
+}
+.tabela {
+    margin-left: 50px;
+    background-color: silver;   
+}
+
+.link{
+    float: right;  
+}
+
+body{
+    background-color:lightgray;
+    
+}
+
+.botao {
+    font-size: 10px;
+    color: gray;
+    background-color: gainsboro;
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 2px 20px;
+    text-decoration: none;
+    font-family: Helvetica, Arial, sans-serif; 
+}
+
+.botao:hover {
+    background-color: darkgrey;
+}
+
+.texto{
+    overflow: scroll;
+}
+    
+
+    
